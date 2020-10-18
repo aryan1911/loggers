@@ -9,7 +9,7 @@
 
 ####Requirements:####
 
-  - You will need to ensure that you are running python 2.x 
+  - You will need to ensure that you are running python 2.x or greater.
   (2.7.x or greater) on your devices.[**python2.7.6**](https://www.python.org/download/releases/2.7.6/)
   - If you use `DoiLogger` class, you will also need to install [**Beautiful Soup**](http://www.crummy.com/software/BeautifulSoup/).
 
@@ -38,7 +38,7 @@ Database supported (目前支持的数据库):
 ----------
 
 #####Quick Installation:(in cmd, bash, poweshell)#####
-To install, unpack the loggers archive and run
+To install, unpack the loggers archive and run.
 	
     python setup.py install
 To uninstall, run 
@@ -142,7 +142,7 @@ automatically and  'run_downloader.py' to download file freely at midnight.
 
 - ####To get download file for free at midnight:####
 
- 1. Put urls of download pages into 'download_list.txt'
+ 1. Put urls of download pages into 'download_list.txt'.
 
  2. Then just double tap 'run_downloader.bat' or 'run_downloader.py' before 00:00
 
